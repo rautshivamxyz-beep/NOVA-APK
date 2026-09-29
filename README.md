@@ -1,7 +1,5 @@
 # NOVA
 
-A fully offline AI assistant app for Android. This repo hosts only the downloadable APK - the source code is private.
+NOVA is a personal project and is now private. Public downloads of the APK have been removed and will not be restored.
 
-Install: download NOVA-latest.apk (in the file list above) and open it on your phone. Requires Android 6.0+.
-
-Current version: v8.6.0
+This repository no longer hosts any builds or releases. There is no supported public version, and installed copies should not expect updates from here.
